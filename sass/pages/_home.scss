@@ -20,14 +20,19 @@
     & > *{
         transform:skewY(7deg);
     }
-
+ 
 
 }
 
 .section-tours{
-    padding: 20rem 0;
+    padding: 20rem 0 15rem 0;
     margin-top: -10rem;
     background-color:$color-grey-light-1 ;
+}
+
+.section-stories {
+    position: relative;
+    padding: 15rem 0;
 }
 
 
